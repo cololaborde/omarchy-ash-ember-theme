@@ -1,5 +1,8 @@
-@define-color background-color #121212;
-@define-color border-color #8a8a8a;
-@define-color label #e0e0e0;
-@define-color image #e0e0e0;
-@define-color progress #e0e0e0;
+/* Ash Ember (Red Edition) – Consistente con Alacritty, Mako, Btop, Hyprlock */
+
+@define-color background-color #1c1c1c;   /* fondo base oscuro */
+@define-color border-color #c01818;       /* borde/acento rojo principal */
+@define-color label #e0e0e0;              /* texto principal gris claro */
+@define-color image #d6d6d6;              /* iconos, un poco más suave que el texto */
+@define-color progress #a03c3c;           /* rojo apagado, menos vibrante para barras */
+@define-color highlight #e52a2a;          /* rojo brillante solo para hover o warning */
