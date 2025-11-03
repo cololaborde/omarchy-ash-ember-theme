@@ -1,31 +1,19 @@
-# Omarchy Ash Theme
+# Omarchy Ash Ember Theme
 
-This is the Ash Theme for [Omarchy.org](https://omarchy.org), providing a cohesive and visually appealing configuration set for your Linux desktop environment.
+Ash Ember is a fork of the [Ash](https://github.com/bjarneo/omarchy-ash-theme) theme for Omarchy, designed for users who want a warmer, deeper look on their Linux desktop while keeping the clean and elegant aesthetic of the original theme.
 
 <p align="center">
-  <img src="theme.png" alt="Ash Theme Preview">
+  <img src="theme.png" alt="Ash Ember Theme Preview">
 </p>
 
->A whisper soft, a final sigh,  
->Of embers fading, where flames danced high.  
->A silver ghost on the hearthstone laid,  
->A memory of the fire's parade.  
->This is the ash, the soft and grey,  
->The quiet end of a burning day.  
+> Ember glow, a warm goodbye,  
+> Where ashes whisper, sparks still fly.  
+> Soft shadows dance on muted light,  
+> A gentle end to the fiery night.  
 
 ## Installation
 
-To install this theme, simply use the `omarchy-theme-install` command:
+To install the theme, run:
 
 ```bash
-omarchy-theme-install https://github.com/bjarneo/omarchy-ash-theme
-```
-
-## Neovim theme
-[https://github.com/bjarneo/ash.nvim](https://github.com/bjarneo/ash.nvim)
-
-## Complementary theme, Snow
-[https://github.com/bjarneo/omarchy-snow-theme](https://github.com/bjarneo/omarchy-snow-theme)
-
-## X.com
-[iamdothash](https://x.com/iamdothash)
+omarchy-theme-install https://github.com/cololaborde/omarchy-ash-ember-theme
