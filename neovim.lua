@@ -1,12 +1,13 @@
 return {
-	{
-		"bjarneo/ash.nvim",
-		name = "ash",
-	},
-	{
-		"LazyVim/LazyVim",
-		opts = {
-			colorscheme = "ash",
-		},
-	},
+  {
+    "cololaborde/omarchy-ash-ember-theme",
+    name = "ash-ember",
+  },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "ash-ember",
+    },
+  },
 }
+
