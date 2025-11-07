@@ -1,6 +1,6 @@
 return {
   {
-    dir = "/home/colo/Documents/omarchy-ash-ember-theme",
+    "cololaborde/omarchy-ash-ember-theme",
     name = "ash-ember",
   },
   {
